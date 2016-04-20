@@ -12,7 +12,8 @@ namespace GitTest
         {
             Console.WriteLine("Let's git it on!");
             Console.Read();
-            
+            Console.WriteLine("Gittin' it on!");
+            Console.Read();
         }
     }
 }
